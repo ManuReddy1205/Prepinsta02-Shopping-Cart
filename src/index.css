@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main h1{
+    text-align: center;
+    margin-top: 10px;
+    text-decoration-line: underline;
+}
+
+.div1 {
+  text-align: center;
+  background-color: rgb(21, 40, 75);
+  margin: 30px 300px 10px 300px;
+  color: white;
+  padding: 0px 100px 30px 100px;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+.div1 h2 {
+  margin-bottom: 50px;
+  padding-top: 20px;
+}
+.div1 ul li {
+  list-style: none;
+}
+.div1 .btn1 {
+  background-color: rgb(0, 255, 55);
+  margin-left: 400px;
+  padding: 10px;
+  border: none;
+  margin-bottom: 8px;
+  border-radius: 5px;
+  transition: all 0.8s ease-in;
+}
+.btn1:hover {
+  background-color: white;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.div2 {
+  text-align: center;
+  margin: 30px 300px 0px 300px;
+  background-color: rgb(21, 40, 75);
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+.div2 h2 {
+  margin-bottom: 10px;
+  padding-top: 20px;
+}
+.div2 .btn2 {
+  background-color: rgb(200, 5, 5);
+  margin-left: 400px;
+  padding: 10px;
+  border: none;
+  margin-bottom: 8px;
+  border-radius: 5px;
+}
+
