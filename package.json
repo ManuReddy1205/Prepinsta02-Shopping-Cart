@@ -1,6 +1,7 @@
 {
   "name": "cart",
   "private": true,
+  "homepage": "https://github.com/ManuReddy1205/Prepinsta02-Shopping-Cart",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
